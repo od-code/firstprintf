@@ -36,3 +36,5 @@ For this project, we expect you to look at these concepts:
 - va_end (man 3 va_end)
 - va_copy (man 3 va_copy)
 - va_arg (man 3 va_arg)
+#### Dependencies
+The `_printf function` was coded on an Ubuntu 14.04 LTS machine with `gcc` version 4.8.4.
